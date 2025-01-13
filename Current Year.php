@@ -6,3 +6,5 @@ function dynamic_year_shortcode() {
 
 // Dynamic year shortcode
 add_shortcode('current_year', 'dynamic_year_shortcode');
+
+// Shortcode: [current_year]
